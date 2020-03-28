@@ -1,8 +1,7 @@
 # Bombea Vida!
 
-# Universidad del Desarrollo, Chile
+## Universidad del Desarrollo, Chile
 ## Magister en Data Science 2019-2020
-
 ### Taller de Proyecto Aplicado
 ### Profesora : Loreto Bravo
 
